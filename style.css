@@ -307,8 +307,8 @@ header .navbar a:hover{
 }
 
 .team .box-container .box img{
-  height:10rem;
-  width:10rem;
+  height:20rem;
+  width:20rem;
   border-radius: 50%;
   object-fit: cover;
 }
