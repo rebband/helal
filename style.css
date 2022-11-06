@@ -63,7 +63,7 @@ header{
   justify-content: space-between;
   padding:2rem 7%;
   box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
-  background:#fff;
+  background:black;
   z-index: 1000;
 }
 
@@ -76,7 +76,8 @@ header .logo{
 header .navbar a{
   font-size: 2rem;
   margin-left: 2.5rem;
-  color:var(--black);
+  color:black;
+  background-color: black;
 }
 
 header .navbar a:hover{
