@@ -77,11 +77,11 @@ header .navbar a{
   font-size: 2rem;
   margin-left: 2.5rem;
   color:var(--black);
-  background-color: black;
 }
 
 header .navbar a:hover{
   color:var(--orange);
+  background-color: black;
 }
 
 #menu-bar{
