@@ -96,7 +96,7 @@ header .navbar a:hover{
 .home{
   display: flex;
   align-items: center;
-  background:url(./images/home-bg.jpg) no-repeat;
+  background:url(./images/Binary_system_coalescence.gif) no-repeat;
   background-size: cover;
   background-position: center;
   flex-wrap: wrap;
