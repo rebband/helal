@@ -201,7 +201,7 @@ header .navbar a:hover{
 }
 
 .service .box-container .box:hover{
-  background:#362a07;
+  background:#bab186;
 }
 
 .service .box-container .box:hover h3{
@@ -285,7 +285,7 @@ header .navbar a:hover{
 }
 
 .team{
-  background:var(--yellow);
+  background:#26220f;
 }
 
 .team .heading{
