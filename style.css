@@ -452,7 +452,7 @@ header .navbar a:hover{
 }
 
 .footer{
-  background:var(--black);
+  background: #362a07;
 }
 
 .footer .box-container{
